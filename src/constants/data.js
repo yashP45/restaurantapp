@@ -16,7 +16,7 @@ export const restaurantData = [
   {
     restaurant_name: "Sizzlin' Steaks",
     dish_name: 'Pepper Steak',
-    diet: 'Non Vegetarian',
+    diet: 'Non-Vegetarian',
     cuisines: 'Mediterranean',
     proteins: 'Beef',
   },
@@ -30,7 +30,7 @@ export const restaurantData = [
   {
     restaurant_name: 'Flavors of India',
     dish_name: 'Butter Chicken',
-    diet: 'Non Vegetarian',
+    diet: 'Non-Vegetarian',
     cuisines: 'Indian',
     proteins: 'Chicken',
   },
